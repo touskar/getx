@@ -1,1 +1,1 @@
-export 'get_connect/connect.dart';
+export 'get_connect/connect.dart' ;

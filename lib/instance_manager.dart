@@ -3,4 +3,5 @@
 library instance_manager;
 
 export 'get_core/get_core.dart';
+
 export 'get_instance/get_instance.dart';
